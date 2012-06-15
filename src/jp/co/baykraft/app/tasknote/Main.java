@@ -105,8 +105,8 @@ public class Main {
                 config.setPassword("password");
                 config.setTagName("TODO");
                 config.setViaProxy(true);
-                config.setProxyHost("proxy.css.fujitsu.com");
-                config.setProxyPort(8080);
+                //config.setProxyHost("ぷろきし");
+                //config.setProxyPort(8080);
                 configDao.insert(config);
             }
             // タスクノートテーブルの生成
